@@ -3,7 +3,7 @@ ADMIN LINK : https://project2-2-bae5.onrender.com
 HOMEPAGE : https://project2-1-tzsw.onrender.com
 
 
-# tomato - Food Ordering Website
+# URBAN EAT - Food Ordering Website
 
 This repository hosts the source code for tomato, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
