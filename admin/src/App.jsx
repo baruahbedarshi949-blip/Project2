@@ -22,7 +22,7 @@ import "react-toastify/dist/ReactToastify.css";
 const App = () => {
 
   // BACKEND URL
-  const url = "https://project2-9t5s.onrender.com";
+  const url = "https://project2-1-tzsw.onrender.com";
 
   // TOKEN STATE
   const [token, setToken] = useState(
