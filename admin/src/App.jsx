@@ -22,7 +22,7 @@ import "react-toastify/dist/ReactToastify.css";
 const App = () => {
 
   // BACKEND URL
-  const url = "http://localhost:4000";
+  const url = "https://project2-9t5s.onrender.com";
 
   // TOKEN STATE
   const [token, setToken] = useState(
