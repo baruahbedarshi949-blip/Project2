@@ -1,5 +1,5 @@
 
-//Corrected Exploremenu
+//Corrected ExploremEnu CHANGED
 import React from "react";
 import "./ExploreMenu.css";
 import { menu_list } from "../../assets/frontend_assets/assets";
