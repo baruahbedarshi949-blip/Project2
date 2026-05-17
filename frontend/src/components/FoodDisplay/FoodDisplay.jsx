@@ -1,3 +1,5 @@
+
+//ChangeD the Display
 import React, { useContext } from "react";
 import "./FoodDisplay.css";
 import { StoreContext } from "../../context/StoreContext";
