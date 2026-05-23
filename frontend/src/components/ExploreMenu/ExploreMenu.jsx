@@ -1,5 +1,5 @@
 
-//Corrected Explore made more reliable CHANGED
+//Corrected Explore made more CHANGED
 import React from "react";
 import "./ExploreMenu.css";
 import { menu_list } from "../../assets/frontend_assets/assets";
