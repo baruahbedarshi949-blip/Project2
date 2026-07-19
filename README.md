@@ -1,6 +1,6 @@
 
 ADMIN LINK : https://project2-2-bae5.onrender.com
-HOMEPAGE : https://project2-1-tzsw.onrender.com
+HOMEPAGE :
 
 
 # URBAN EAT - Food Ordering Website
